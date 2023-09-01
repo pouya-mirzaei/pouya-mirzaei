@@ -4,7 +4,7 @@
 
 I'm Pouya Mirzaei , A front-end developer with over 1 year of experience in web Designs and UI/UX development using latest technologies
 
-- 🌐 &nbsp; I'm living in Iran,Kerman
+- 🌐 &nbsp; I live in Iran,Kerman
 - 💻 &nbsp; I'm leaning React js right now
 - ✉️ &nbsp; You can get in touch with my by [Gmail](mailto:pouya.hp2004@gmail.com)
 - 📘 &nbsp; I love to read books , Especialy fantasy books.
