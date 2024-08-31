@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm Pouya Mirzaei , A front-end developer with over 1 year of experience in web Designs and UI/UX development using latest technologies
+I'm Pouya Mirzaei , A front-end developer with over 2 year of experience in web Designs and UI/UX development using latest technologies
 
 - 🌐 &nbsp; I live in Iran,Kerman
 - 💻 &nbsp; I'm leaning React js right now
